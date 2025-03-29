@@ -26,7 +26,7 @@ LeetCode-Solutions/
 | #  | Problem Name | Difficulty | Solution |
 |----|-------------|------------|----------|
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](Easy/Two_Sum.py) |
-| 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](Easy/Valid_Parantheses.py) |
+| 2  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](Easy/Valid_Parentheses.py) |
 | 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Solution](Medium/Longest_Substring_Without_Repeating_Characters.java) |
 | 4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Solution](Hard/Median_of_Two_Sorted_Arrays.py) |
 
